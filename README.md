@@ -10,7 +10,7 @@
 * **Tableau (BI 工具)**：設計互動式儀表板，提供決策者動態探索數據的良好體驗。
 
 ##  Tableau 商業儀表板成果
-滑鼠懸停即可即時查看精確的平均觀看時數，一眼即可看出各階層會員在科幻片高達將近 100 小時的觀看異常斷層。
+透過 Tableau 儀表板視覺化呈現，可一眼看出各訂閱方案會員在各類型的觀看差異。
 <img width="1157" height="772" alt="image" src="https://github.com/user-attachments/assets/f09659d1-48ca-4dfc-820a-d487d610913a" />
 
 
